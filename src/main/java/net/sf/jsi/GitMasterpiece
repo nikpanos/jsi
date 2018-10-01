@@ -1,0 +1,3 @@
+static void Hair(string shampoo) {        
+        System.out.println("Hello, new shampoo, give me my hair back");
+    }
